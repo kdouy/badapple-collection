@@ -1,0 +1,8 @@
+﻿  badapple.cpp
+C:\Users\theme\source\repos\badapple\badapple\badapple.cpp(9,34): warning C4081: expected 'newline'; found ';'
+  Generating code
+  10 of 412 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  badapple.vcxproj -> C:\Users\theme\source\repos\badapple\Release\badapple.exe

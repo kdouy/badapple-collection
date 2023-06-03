@@ -1,0 +1,3 @@
+﻿  badapple.cpp
+C:\Users\theme\source\repos\badapple\badapple\badapple.cpp(8,34): warning C4081: expected 'newline'; found ';'
+  badapple.vcxproj -> C:\Users\theme\source\repos\badapple\x64\Debug\badapple.exe
